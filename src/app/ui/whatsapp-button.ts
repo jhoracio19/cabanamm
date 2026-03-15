@@ -20,7 +20,7 @@ import { Component } from '@angular/core';
 
       <!-- Botón -->
       <a
-        href="https://wa.me/522464637426?text=Hola,%20me%20gustaría%20información%20sobre%20eventos%20en%20Cabaña%20Maria%20Maria"
+        href="https://wa.me/522462132732?text=Hola,%20me%20gustaría%20información%20sobre%20eventos%20en%20Cabaña%20Maria%20Maria"
         target="_blank"
         rel="noopener noreferrer"
         aria-label="Contactar por WhatsApp"

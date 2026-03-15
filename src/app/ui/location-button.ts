@@ -20,7 +20,7 @@ import { Component } from '@angular/core';
 
       <!-- Botón -->
       <a
-        href="https://maps.google.com/?q=Cabaña+Maria+Maria+Tlaxcala"
+        href="https://maps.app.goo.gl/aAFJch8RhSZS2E1b6"
         target="_blank"
         rel="noopener noreferrer"
         aria-label="Cómo llegar a Cabaña Maria Maria"
